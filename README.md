@@ -52,6 +52,6 @@ A data model is prepared to help with the case study. The entity-relationship di
 
 The queries for the questions listed above can be found in the [SQL_Queries](./SQL_Queries/) folder and the respective query results can be found in the [Query_Results](./Query_Results/) folder.
 
-The file naming convention followed is <alphabet><question_number>. For example, A1 refers to first wquestion of customer nodes exploration.
+The file naming convention followed is <section_alphabet><question_number>. For example, A1 refers to first question of customer nodes exploration.
 
 The queries are written in Postgresql.
