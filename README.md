@@ -24,6 +24,8 @@ This case study is all about calculating metrics, growth and helping the busines
 
 A data model is prepared to help with the case study. The entity-relationship diagram below depicts the relation between the tables and the table schema.
 
+![Screenshot](er_diagram.png)
+
 1. The regions table contains the region_id and their respective region_name values.
 2. The customer_nodes table records which node of a region is allocated to the customer along with the start and end date of the allocation period.
 3. The customer_transactions table stores all customer deposits, withdrawals and purchases made using their Data Bank debit card.
